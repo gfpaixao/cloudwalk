@@ -1,0 +1,17 @@
+# data & outputs (don't publish raw data)
+data/*
+outputs/*
+!outputs/README.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Streamlit/cache
+.streamlit/
+
+# OS / editor
+.DS_Store
+.vscode/
