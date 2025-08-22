@@ -1,0 +1,108 @@
+
+## Decision hook
+Total TPV: R$ 19,442,634,813.40
+
+## Product preference by entity (TPV)
+PF: tap (R$ 4,647,280,111.29)
+PJ: pos (R$ 8,201,879,340.20)
+
+## Payment method preference by entity (TPV)
+PF: credit (R$ 5,350,844,763.68)
+PJ: credit (R$ 9,082,077,784.46)
+
+## Top product overall (TPV)
+pos (R$ 8,239,753,310.86)
+
+## Payment method mix (overall)
+credit: R$ 14,432,922,548.14 (74.23%)
+debit: R$ 2,491,939,156.67 (12.82%)
+pix: R$ 2,475,733,648.08 (12.73%)
+bank_slip: R$ 42,039,460.51 (0.22%)
+TOTAL TPV: R$ 19,442,634,813.40
+
+## Entity mix (overall)
+PJ: R$ 13,470,818,904.53 (69.28%)
+PF: R$ 5,971,815,908.87 (30.72%)
+
+## Amount stats by entity (avg/median/mode)
+PJ: avg R$ 555,177.17 · med R$ 63,902.51 · mode R$ 1,000.00 · n 24264
+PF: avg R$ 441,604.37 · med R$ 7,478.30 · mode R$ 1,000.00 · n 13523
+
+## Amount stats by product (avg/median/mode)
+pix: avg R$ 3,491,866.92 · med R$ 1,699,874.77 · mode R$ 35.00 · n 709
+pos: avg R$ 720,951.38 · med R$ 47,860.17 · mode R$ 800.00 · n 11429
+tap: avg R$ 471,341.92 · med R$ 28,988.39 · mode R$ 1,000.00 · n 13263
+link: avg R$ 203,520.70 · med R$ 31,266.21 · mode R$ 500.00 · n 11958
+bank_slip: avg R$ 98,223.04 · med R$ 21,928.03 · mode R$ 189.00 · n 428
+
+## Amount stats by payment method (avg/median/mode)
+pix: avg R$ 3,491,866.92 · med R$ 1,699,874.77 · mode R$ 35.00 · n 709
+debit: avg R$ 984,567.03 · med R$ 25,948.47 · mode R$ 20.00 · n 2531
+credit: avg R$ 423,017.16 · med R$ 35,929.38 · mode R$ 1,000.00 · n 34119
+bank_slip: avg R$ 98,223.04 · med R$ 21,928.03 · mode R$ 189.00 · n 428
+
+## Installments impact (credit only)
+1x: TPV R$ 3,714,722,739.99 (25.74%), avg_ticket R$ 110.32
+2x: TPV R$ 1,346,500,416.59 (9.33%), avg_ticket R$ 337.31
+3x: TPV R$ 1,581,513,407.17 (10.96%), avg_ticket R$ 592.08
+4x: TPV R$ 1,130,601,851.33 (7.83%), avg_ticket R$ 854.37
+5x: TPV R$ 996,292,283.49 (6.90%), avg_ticket R$ 1,106.52
+6x: TPV R$ 1,022,770,077.24 (7.09%), avg_ticket R$ 1,389.94
+7x: TPV R$ 232,709,241.05 (1.61%), avg_ticket R$ 1,484.53
+8x: TPV R$ 414,694,198.19 (2.87%), avg_ticket R$ 1,766.68
+9x: TPV R$ 115,950,824.37 (0.80%), avg_ticket R$ 1,836.18
+10x: TPV R$ 2,209,246,830.11 (15.31%), avg_ticket R$ 2,243.26
+11x: TPV R$ 44,880,637.92 (0.31%), avg_ticket R$ 2,423.75
+12x: TPV R$ 1,623,040,040.69 (11.25%), avg_ticket R$ 2,852.93
+Top installment by TPV: 1x (R$ 3,714,722,739.99)
+
+## Price tier performance (TPV)
+80k+: R$ 19,094,949,772.99
+40k-80k: R$ 165,584,046.20
+20k-40k: R$ 94,237,384.06
+0-20k: R$ 87,863,610.15
+Top tier: 80k+
+Lowest tier: 0-20k
+
+## Weekday effect (TPV)
+Monday: R$ 3,148,242,225.09
+Tuesday: R$ 2,841,468,437.40
+Wednesday: R$ 3,006,958,527.77
+Thursday: R$ 3,310,833,592.50
+Friday: R$ 3,239,200,237.92
+Saturday: R$ 2,522,625,352.90
+Sunday: R$ 1,373,306,439.82
+Top weekday: Thursday
+
+## Month with biggest TPV
+Top month: 2025-03 (R$ 7,089,161,973.60)
+
+## Anticipation method by entity
+PF: d0/nitro (R$ 2,947,399,805.18, 49.36%)
+PJ: d1anticipation (R$ 9,947,706,708.87, 73.85%)
+
+## Avg ticket: D0/Nitro vs D1Anticipation (credit only)
+d0/nitro: avg_ticket R$ 277.29 (TPV R$ 3,638,524,863.09)
+d1anticipation: avg_ticket R$ 335.24 (TPV R$ 10,794,397,685.05)
+
+## Top anticipation method (overall TPV)
+d1anticipation: R$ 12,712,253,223.11 (65.38%)
+d0/nitro: R$ 4,212,608,481.70 (21.67%)
+pix: R$ 2,475,733,648.08 (12.73%)
+bank_slip: R$ 42,039,460.51 (0.22%)
+
+## Best client type by TPV (entity × product × payment × anticipation × tier × installments)
+{'entity': 'PJ', 'product': 'pix', 'payment_method': 'pix', 'anticipation_method': 'pix', 'monthly_tier': '80k+', 'installments': 1, 'tpv': 2230901539.68}
+
+## TPV by avg_ticket deciles (row-level)
+decile 1: TPV R$ 6,280,099,327.39 (32.30%)
+decile 2: TPV R$ 2,955,175,523.27 (15.20%)
+decile 3: TPV R$ 1,613,828,662.05 (8.30%)
+decile 4: TPV R$ 1,307,510,483.44 (6.72%)
+decile 5: TPV R$ 1,138,107,639.68 (5.85%)
+decile 6: TPV R$ 1,088,856,371.84 (5.60%)
+decile 7: TPV R$ 1,062,474,329.56 (5.46%)
+decile 8: TPV R$ 1,225,255,459.78 (6.30%)
+decile 9: TPV R$ 1,586,472,514.91 (8.16%)
+decile 10: TPV R$ 1,184,854,501.48 (6.09%)
+Top decile: 1
